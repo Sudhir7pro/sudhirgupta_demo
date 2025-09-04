@@ -2,5 +2,5 @@
 This is my second git repositroy.
 <br>
 
-Author - Sudhir Gupta
+Author - Sudhir (guru)
 
